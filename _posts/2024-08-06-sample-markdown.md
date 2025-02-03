@@ -19,7 +19,7 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 [This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
 
 ## Here is a pdf file
-[点击这里查看PDF文件](chutongren.github.io/_posts/Final_Presentation_Foot_Pressure_Sensor_V15.pdf)
+[点击这里查看PDF文件](Final_Presentation_Foot_Pressure_Sensor_V15.pdf)
 
 Here's a table:
 
