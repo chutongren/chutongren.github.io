@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: Foot Pressure Sensor
+subtitle: a show which is able to measure the foot pressure distribution in real time.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
-author: Bill Smith
 ---
 
 {: .box-success}
@@ -18,6 +17,9 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 ## Here is a secondary heading
 
 [This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+
+## Here is a pdf file
+[点击这里查看PDF文件](chutongren.github.io/_posts/Final_Presentation_Foot_Pressure_Sensor_V15.pdf)
 
 Here's a table:
 
