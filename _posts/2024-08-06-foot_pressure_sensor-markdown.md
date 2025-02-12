@@ -2,11 +2,10 @@
 layout: post
 title: Foot Pressure Sensor
 subtitle: a show which is able to measure the foot pressure distribution in real time.
+thumbnail-img: /assets/img/run_on_the_grass.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
-comments: true
-mathjax: true
 ---
 
 {: .box-success}
@@ -20,11 +19,16 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 
 ## Here is a pdf file
-<iframe src="./Final_Presentation_Foot_Pressure_Sensor_V15.pdf" width="100%" height="600px">
+
+<iframe 
+  src="/assets/pdf/foot_pressure_sensor_presentation_06082024_v15.pdf" 
+  width="100%" 
+  height="1000px" 
+  style="border-radius: 15px;">
 </iframe>
 
 
-Here's a table:
+## Here's a table:
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
