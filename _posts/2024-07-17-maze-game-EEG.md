@@ -13,6 +13,13 @@ collect data to train SVM model.
 I have to say, this device is to old. We always met dead loop questions. broke down. can't be recognised and connect to its corresponding app on computer.  
 is shown in this video. 
 
+<center>
+<video width="100%" height="400" controls>
+  <source src="/assets/vid/mazegame1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
+
 <iframe 
   src="/assets/pdf/maze_game_EEG_17072024.pdf" 
   width="100%" 
