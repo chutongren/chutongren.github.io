@@ -2,7 +2,7 @@
 layout: post
 title: Maze Game with EEG signal
 subtitle: a Practical Project of course Biosignal Processing and Modeling_SS2024
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/mazegame.png
 share-img: /assets/img/path.jpg
 tags: [EEG, SVM, Maze Game]
 ---
