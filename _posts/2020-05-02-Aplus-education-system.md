@@ -2,7 +2,7 @@
 layout: post
 title: A+ education system
 subtitle: Springboot + Mybatis + Vue
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/Apluseducation.png
 share-img: /assets/img/path.jpg
 tags: [interview]
 ---
