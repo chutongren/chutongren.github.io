@@ -16,14 +16,14 @@ For example,  the following four videos are in four situations: sensor in the fu
 .video-grid {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 10px;
   justify-content: center;
   margin-bottom: 40px;
 }
 
 .video-item {
-  flex: 1 1 45%;
-  max-width: 45%;
+  flex: 1 1 48%;
+  max-width: 8%;
 }
 
 video {
@@ -40,28 +40,28 @@ video {
       <source src="/assets/vid/fullsoul_wiese1-lessthan25MB.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p style="text-align: center;">Sensor in fullsole</p>
+    <p style="text-align: center;">wearing fullsoul on the grass</p>
   </div>
   <div class="video-item">
     <video controls>
-      <source src="/assets/vid/nrshoes_wiese2.mp4" type="video/mp4">
+      <source src="/assets/vid/nrshoes_wiese2.mp4" type="video/mov">
       Your browser does not support the video tag.
     </video>
-    <p style="text-align: center;">Sensor in normal shoes</p>
+    <p style="text-align: center;">wearing normal shoes on the grass</p>
   </div>
   <div class="video-item">
     <video controls>
-      <source src="/assets/vid/fullsoul_stone1.mp4" type="video/mp4">
+      <source src="/assets/vid/fullsoul_stone1.mp4" type="video/mov">
       Your browser does not support the video tag.
     </video>
-    <p style="text-align: center;">Walking on grass</p>
+    <p style="text-align: center;">wearing fullsoul on the stone pebbles</p>
   </div>
   <div class="video-item">
     <video controls>
-      <source src="/assets/vid/nrshoes_stone2.mp4" type="video/mp4">
+      <source src="/assets/vid/nrshoes_stone2.mp4" type="video/mov">
       Your browser does not support the video tag.
     </video>
-    <p style="text-align: center;">Walking on stone</p>
+    <p style="text-align: center;">wearing normal shoes on the stone pebbles</p>
   </div>
 </div>
 
