@@ -11,7 +11,6 @@ We integrate [the sensor](https://www.moxiantech.com/) on [the fullsole designed
 
 For example,  the following four videos are in four situations: sensor in the fullsole, sensor in the normal shoes, walking on the grass, walking on the stone.
 
-<!-- 视频网格样式 -->
 <style>
 .video-grid {
   display: flex;
@@ -22,8 +21,8 @@ For example,  the following four videos are in four situations: sensor in the fu
 }
 
 .video-item {
-  flex: 1 1 45%;
-  max-width:45%;
+  flex: 1 1 calc(50% - 10px);
+  max-width: calc(50% - 10px);
 }
 
 video {
@@ -32,6 +31,7 @@ video {
   border-radius: 10px;
 }
 </style>
+
 
 <!-- 视频展示区域 -->
 <div class="video-grid">
@@ -44,21 +44,21 @@ video {
   </div>
   <div class="video-item">
     <video controls>
-      <source src="/assets/vid/nrshoes_wiese2.mp4" type="video/mov">
+      <source src="/assets/vid/nrshoes_wiese2.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p style="text-align: center;">wearing normal shoes on the grass</p>
   </div>
   <div class="video-item">
     <video controls>
-      <source src="/assets/vid/fullsoul_stone1.mp4" type="video/mov">
+      <source src="/assets/vid/fullsoul_stone1.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p style="text-align: center;">wearing fullsoul on the stone pebbles</p>
   </div>
   <div class="video-item">
     <video controls>
-      <source src="/assets/vid/nrshoes_stone2.mp4" type="video/mov">
+      <source src="/assets/vid/nrshoes_stone2.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p style="text-align: center;">wearing normal shoes on the stone pebbles</p>
