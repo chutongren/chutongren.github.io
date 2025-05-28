@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Foot Pressure Sensor And It's Usage In Barefoot Shoes: Fullsoul Runningpad
-
 subtitle: a fullsoul which is able to measure the foot pressure distribution in real time.
 thumbnail-img: /assets/img/run_on_the_grass.jpg
 tags: [python, data analyse]
