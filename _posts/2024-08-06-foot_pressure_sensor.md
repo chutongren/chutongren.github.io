@@ -16,14 +16,14 @@ For example,  the following four videos are in four situations: sensor in the fu
 .video-grid {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 20px;
   justify-content: center;
   margin-bottom: 40px;
 }
 
 .video-item {
-  flex: 1 1 48%;
-  max-width: 8%;
+  flex: 1 1 45%;
+  max-width:45%;
 }
 
 video {
