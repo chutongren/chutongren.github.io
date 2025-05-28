@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/run_on_the_grass.jpg
 tags: [python, data analyse]
 ---
 
-We integrate the [sensor](https://www.moxiantech.com/) on the [fullsole designed by our Prof. Dr. Martin Daumer](https://fullsoul.de/) and measure the foot pressure distribution in time. The code is uploaded on [GitHub](https://github.com/weichkai/footPressureSensor).
+We integrate [the sensor](https://www.moxiantech.com/) on [the fullsole designed by our Prof. Dr. Martin Daumer](https://fullsoul.de/) and measure the foot pressure distribution in time. [The code](https://github.com/weichkai/footPressureSensor) is uploaded on GitHub.
 
 
 For example,  the following four videos are in four situations: sensor in the fullsole, sensor in the normal shoes, walking on the grass, walking on the stone.
