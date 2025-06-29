@@ -1,10 +1,10 @@
 ---
 layout: post
-title: A+ education system
-subtitle: Springboot + Mybatis + Vue
+title: A+ Online Education System
+subtitle: Built by a Three-Person Team
 thumbnail-img: /assets/img/Apluseducation.png
 share-img: /assets/img/path.jpg
-tags: [interview]
+tags: [Springboot, Spring Cloud, Mybatis-plus, MySQL, Vue, element-ui, Aliyun ECS, Aliyun OSS, Decoupled Frontend and Backend, Teamwork]
 ---
 
 <center>
