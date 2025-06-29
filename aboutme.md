@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Just in case you want to learn more about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Chutong Ren. I was born in Qitaihe (a small city in northeast China). I studied in Shanghai for six years and have been living and studying in Munich for the past two years. I completed my bachelor’s degree in Software Engineering at Donghua University, Shanghai, China, and I am currently pursuing a master’s degree in Electrical and Computer Engineering at the Technical University of Munich.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My Passion for the coding
 
-What else do you need?
+### My Interests
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
