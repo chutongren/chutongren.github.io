@@ -1,9 +1,9 @@
 ---
 layout: post
-title: An Android App - Campus Navigation Guide Helper
-subtitle: 
+title: Campus Navigation Guide Helper
+subtitle: An Android App
 thumbnail-img: /assets/img/app.jpg
-tags: [Android App, Android Studio, Android Developer, Course Project]
+tags: [Android App, Android Studio, course project]
 ---
 
 
