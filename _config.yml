@@ -21,7 +21,7 @@ author: Chutong Ren
 
 navbar-links:
   About Me: "aboutme"
-  CV:
+  CV: /assets/pdf/Chutong Ren_Lebenslauf.pdf
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
