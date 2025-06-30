@@ -4,7 +4,7 @@ title: Maze Game with EEG signal
 subtitle: a Practical Project of Course Biosignal Processing and Modeling_SS2024
 thumbnail-img: /assets/img/mazegame.jpg
 share-img: /assets/img/path.jpg
-tags: [EEG, BCI, SVM, Maze Game]
+tags: [EEG, BCI, SVM, maze game]
 ---
 
 Have you ever thought about controlling something just by using your brainwaves? Well, that’s exactly what we tried in this project — playing a maze game controlled by EEG signals.
